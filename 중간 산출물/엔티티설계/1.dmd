@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="1" id="F2843506-09AE-48EC-F1F6-A437D12AD5A1" version="3.5">
+<createdBy>xengo</createdBy>
+<createdTime>2021-06-21 01:20:25 UTC</createdTime>
+<ownerDesignName>1</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>F2843506-09AE-48EC-F1F6-A437D12AD5A1</designId>
+</OSDM_Design>
